@@ -1,13 +1,5 @@
-# Template: Standard Robot Framework
+# Ordering of robots
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+This is the code for Course "Certificate level II: Build a robot" (https://robocorp.com/docs/courses/build-a-robot) for Robocorp RPA.
 
-This template robot:
-
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+Solution was created by myself, so there might be some differences to officially provided solution code.
